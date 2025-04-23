@@ -43,4 +43,4 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 
 ## Visualisation
 
-![001_two_sum.png](../images/001_two_sum.png)
+![001_two_sum.png](../../images/001_two_sum.png)

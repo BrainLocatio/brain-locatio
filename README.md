@@ -4,4 +4,16 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/user/project/ci.yml?branch=main)](link-to-workflow)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A software tool designed to guide beginners in software development toward the medior level with confidence.
+![GitHub_banner.png](images/GitHub_banner.png)
+
+## 🛣️ Software engineer's roadmap
+
+Programming Language Proficiency
+- Python Basics
+- Code & Documentation Reading
+
+Algorithmization
+- Data Structures and Algorithms
+
+Advanced Concepts
+- Advanced Python & Software Engineering
