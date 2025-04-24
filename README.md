@@ -17,3 +17,7 @@ Algorithmization
 
 Advanced Concepts
 - Advanced Python & Software Engineering
+
+DevOps
+
+System design and Software Architecture
