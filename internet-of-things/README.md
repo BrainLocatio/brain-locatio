@@ -1,8 +1,13 @@
 # 📌 Project Overview
 
-**API**: gRPC or REST  
-**Communication Model**: Message broker (Kafka, RabbitMQ, etc.)  
-**Framework**: Flask (with background worker/event publisher)
+|                      |                                                     |
+|----------------------|-----------------------------------------------------|
+| **API**              | gRPC or REST                                        |
+| **Communication Model** | Message broker (Kafka, RabbitMQ, etc.)          |
+| **Framework**        | Flask (with background worker/event publisher)      |
+| **Architecture Type**| Microservices                                       |
+| **Design Pattern**   | Event-driven architecture (EDA)                     |
 
-**Architecture Type**: Microservices  
-**Design Pattern**: Event-driven architecture (EDA)
+# 🏛️ System architecture pillars
+
+## Reliable architecture

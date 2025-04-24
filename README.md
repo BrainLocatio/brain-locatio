@@ -8,16 +8,17 @@
 
 ## 🛣️ Software engineer's roadmap
 
-Programming Language Proficiency
+### 🧑‍💻 Programming Language Proficiency
 - Python Basics
 - Code & Documentation Reading
 
-Algorithmization
+### 📊 Algorithmization
 - Data Structures and Algorithms
 
-Advanced Concepts
-- Advanced Python & Software Engineering
+### 🚀Advanced concepts 
+- API security and caching
 
-DevOps
+### 🔧 DevOps Foundations
 
-System design and Software Architecture
+### 🧩 System design
+- Scalable, maintainable, resilient, high availability and reliable architecture
