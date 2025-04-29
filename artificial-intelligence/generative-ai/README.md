@@ -11,3 +11,9 @@
 # 🏛️ System architecture pillars
 
 ## Reliable architecture
+
+# 🛠 Development
+
+PyCharm & virtual environment
+
+Testing framework: Pytest

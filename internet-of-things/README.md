@@ -11,3 +11,9 @@
 # 🏛️ System architecture pillars
 
 ## Reliable architecture
+
+# 🛠 Development
+
+Dev Container (VS Code + Docker)
+
+Testing framework: unittest
