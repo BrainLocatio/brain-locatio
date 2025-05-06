@@ -1,0 +1,13 @@
+from solution import Solution
+
+
+import unittest
+
+
+class SolutionTestCase(unittest.TestCase):
+    def is_palindrome(self) -> None:
+        solution = Solution()
+        test_cases = [(121, True),(-121, False), (10, False)]
+
+        for input_value, expected_result in test_cases:
+            assert solution.is_palindrome(input_value) == expected_result
