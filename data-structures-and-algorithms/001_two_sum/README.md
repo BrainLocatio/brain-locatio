@@ -44,3 +44,18 @@ Follow-up: Can you come up with an algorithm that is less than O(n^2) time compl
 ## Visualisation
 
 ![001_two_sum.png](../../images/001_two_sum.png)
+
+## Additional notes
+
+**Input analysis:**
+
+- Type: list, builtin DS and mutable collection
+- Range: list of positive / negative integers
+- Uniqueness: elements are not unique
+- Order: unsorted
+
+**Algorithm’s DS:** 
+- dict
+
+**Algorithm’s approach:**
+- hash map
