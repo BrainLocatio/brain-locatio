@@ -35,3 +35,14 @@
 
 ### 💡 Master-Level Reasoning
 - Architectural patterns and principles (DDD, SOA, EDA)
+
+## 🛠️ Project Setup
+
+### Code Analysis
+
+**Configuration Sources:**
+- **Black** — configured in [`pyproject.toml`](./pyproject.toml)
+- **Mypy** — configured in [`mypy.ini`](./mypy.ini)
+
+**Orchestration:**
+- **Pre-commit hooks** — managed via [`.pre-commit-config.yaml`](./.pre-commit-config.yaml)

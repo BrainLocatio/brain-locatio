@@ -1,12 +1,13 @@
 # 📌 Project Overview
 
-|                    |                                                 |
-|--------------------|-------------------------------------------------|
-| **API**            | REST                                            |
+|                         |                                                 |
+|-------------------------|-------------------------------------------------|
+| **API**                 | REST                                            |
 | **Communication Model** | Direct HTTP (client-server)               |
-| **Framework**      | FastAPI                                         |
-| **Architecture Type** | Web development (frontend-backend interaction) |
-| **Design Pattern** | Request-response (RESTful)                     |
+| **Framework**           | FastAPI                                         |
+| **Data validation**     | Pydantic      
+| **Architecture Type**   | Web development (frontend-backend interaction) |
+| **Design Pattern**      | Request-response (RESTful)                     |
 
 # 🏛️ System architecture pillars
 
