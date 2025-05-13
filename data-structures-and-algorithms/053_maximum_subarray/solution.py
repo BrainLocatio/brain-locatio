@@ -21,10 +21,16 @@ class Solution:
         mid: int = (left_idx + right_idx) // 2
 
         left_max: int = self.calculate_max_subarray(left_idx=left_idx, right_idx=mid)
-        right_max: int = self.calculate_max_subarray(left_idx=mid + 1, right_idx=right_idx)
+        right_max: int = self.calculate_max_subarray(
+            left_idx=mid + 1, right_idx=right_idx
+        )
 
-        left_cross_max: int = self._calculate_max_sum_in_range(start=mid, stop=left_idx - 1, step=-1)
-        right_cross_max: int = self._calculate_max_sum_in_range(start=mid + 1, stop=right_idx + 1)
+        left_cross_max: int = self._calculate_max_sum_in_range(
+            start=mid, stop=left_idx - 1, step=-1
+        )
+        right_cross_max: int = self._calculate_max_sum_in_range(
+            start=mid + 1, stop=right_idx + 1
+        )
         cross_max: int = left_cross_max + right_cross_max
 
         return max(left_max, right_max, cross_max)

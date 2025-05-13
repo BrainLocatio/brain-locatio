@@ -2,7 +2,7 @@
 
 Leet Code reference: https://leetcode.com/problems/two-sum/description/
 
-Topic: Array, Hash Table, Brute force approach
+Topic: List, Dict, Hash Map approach, Brute force approach
 
 ## Description 
 

@@ -1,6 +1,6 @@
 class Solution:
     # might be parametrized, making a general-purpose stack-based validator (OCP)
-    mapping = {')': '(', '}': '{', ']': '['}
+    mapping = {")": "(", "}": "{", "]": "["}
 
     def __init__(self) -> None:
         self.stack: list[str] = []

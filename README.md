@@ -41,7 +41,7 @@
 ### Code Analysis
 
 **Configuration Sources:**
-- **Black** — configured in [`pyproject.toml`](./pyproject.toml)
+- **Black** — configured in [`pyproject.toml`](./setup.cfg)
 - **Mypy** — configured in [`mypy.ini`](./mypy.ini)
 
 **Orchestration:**

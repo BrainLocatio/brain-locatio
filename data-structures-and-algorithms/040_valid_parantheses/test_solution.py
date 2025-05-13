@@ -14,7 +14,7 @@ class SolutionTestCase(unittest.TestCase):
             ("()", True),
             ("()[]{}", True),
             ("([])", True),
-            ("((()))", True)
+            ("((()))", True),
         ]
         for case, expected in valid_cases:
             solution = Solution()
@@ -33,7 +33,7 @@ class SolutionTestCase(unittest.TestCase):
             ("(", False),
             ("(]", False),
             ("{[(])}", False),
-            ("", False)
+            ("", False),
         ]
         for case, expected in invalid_cases:
             solution = Solution()
