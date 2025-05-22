@@ -1,19 +1,33 @@
-# data-structures-and-algorithms
+# Algorithms
 
-## Hash Map Solution & Brute Force Approach
+## Beginner
+
+### Linear search approach
+
+[485_max_consecutive_ones](485_max_consecutive_ones)
+
+**Real world examples**
+- Command-Line Tools like grep, find
+- Processing rows line-by-line with Pandas
+
+## Intermediate
+
+### Hash Map Approach
 
 [001 Two Sum](001_two_sum/README.md)
 
-## Stack
+**Real world examples**
+- Caching systems to avoid recalculating previously computed results
+- Hash Indexing for fast lookups
+- Hashing for change detection
 
-[040 Valid Parentheses](040_valid_parantheses/README.md)
+### Sliding Window Approach
 
-## Divide & Conquer approach and Kadane's algorithm
+[003_longest_substring](003_longest_substring)
 
-.binary recursion tree
+**Real world examples**
+- Rate Limiting / API Throttling
+
+### Divide & Conquer Approach
 
 [053 Maximum Subarray](053_maximum_subarray/README.md)
-
-## Dynamic programming
-
-## Greedy algorithm
