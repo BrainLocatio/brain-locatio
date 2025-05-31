@@ -2,7 +2,7 @@
 
 Leet Code reference: https://leetcode.com/problems/maximum-subarray/description/
 
-Topic: Array, Divide and Conquer (Binary recursion tree), Dynamic programming (Kadane's Algorithm)
+Topic: List, Divide and Conquer (Binary recursion tree), Dynamic programming (Kadane's Algorithm)
 
 ## Description
 

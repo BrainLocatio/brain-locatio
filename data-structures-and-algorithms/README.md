@@ -10,9 +10,16 @@
 - Command-Line Tools like grep, find
 - Processing rows line-by-line with Pandas
 
+### Binary search approach
+
+[035_search_insert_position](035_search_insert_position/README.md)
+
+**Real world examples**
+- B-Tree (Balanced Tree) Indexing in PostgreSQL
+
 ## Intermediate
 
-### Hash Map Approach
+### Hashmap Approach
 
 [001 Two Sum](001_two_sum/README.md)
 

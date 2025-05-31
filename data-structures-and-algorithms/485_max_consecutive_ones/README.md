@@ -2,7 +2,7 @@
 
 Leet Code reference: https://leetcode.com/problems/max-consecutive-ones/description/
 
-Topic: Array
+Topic: List
 
 ## Description
 
