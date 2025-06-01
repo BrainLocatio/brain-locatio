@@ -38,4 +38,4 @@ class Solution:
         return item in self.mapping.keys()
 
     def _top_matches_opening_bracket(self, item: str) -> bool:
-        return self.stack and self.stack[-1] == self.mapping[item]
+        return bool(self.stack) and self.stack[-1] == self.mapping[item]

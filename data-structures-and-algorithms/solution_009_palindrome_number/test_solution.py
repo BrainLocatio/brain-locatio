@@ -1,7 +1,6 @@
-from solution import Solution
-
-
 import unittest
+
+from solution import Solution  # type: ignore
 
 
 class SolutionTestCase(unittest.TestCase):

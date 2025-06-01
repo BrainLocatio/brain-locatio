@@ -16,7 +16,7 @@ fi
 
 echo "Installing Dependencies..."
 "$VENV_PIP" install --upgrade pip
-"$VENV_PIP" install black==25.1.0 pre-commit==4.2.0
+"$VENV_PIP" install black==25.1.0 pre-commit==4.2.0 flake8==7.2.0 mypy==1.16.0 isort==6.0.1
 
 "$VENV_DIR/bin/pre-commit" install
 

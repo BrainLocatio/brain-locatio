@@ -1,7 +1,6 @@
-from solution import Solution
-
-
 import unittest
+
+from solution import Solution  # type: ignore
 
 
 class SolutionTestCase(unittest.TestCase):
@@ -13,10 +12,11 @@ class SolutionTestCase(unittest.TestCase):
             ("ab", 2),
             ("aa", 1),
             ("aabcd", 4),
+            ("abcchh", 3),
             ("abcabcbb", 3),
+            ("bbbbb", 1),
+            ("pwwkew", 3),
         ]
 
         for input_value, expected_result in test_cases:
-            self.assertEqual(
-                expected_result, solution.lengthOfLongestSubstring(input_value)
-            )
+            self.assertEqual(expected_result, solution.lengthOfLongestSubstring(input_value))

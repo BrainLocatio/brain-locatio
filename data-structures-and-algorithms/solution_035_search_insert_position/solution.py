@@ -6,7 +6,8 @@ class Solution:
 
         :param nums: a sorted array of distinct integers
         :param target: value to be found
-        :return: int: return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+        :return: int: return the index if the target is found. If not, return the index where it would be if it were
+        inserted in order.
         """
         if target > nums[-1]:
             return len(nums)

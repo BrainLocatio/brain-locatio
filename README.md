@@ -40,9 +40,11 @@
 
 ### Code Analysis
 
+**Initial setup:** ```chmod +x install.sh && ./install.sh```
+
 **Configuration Sources:**
-- **Black** — configured in [`pyproject.toml`](./setup.cfg)
-- **Mypy** — configured in [`mypy.ini`](./mypy.ini)
+- **Flake8** - configured in [`setup.cfg`](./setup.cfg)
+- **Black** - configured in [`.pre-commit-config.yaml`](./.pre-commit-config.yaml)
 
 **Orchestration:**
 - **Pre-commit hooks** — managed via [`.pre-commit-config.yaml`](./.pre-commit-config.yaml)

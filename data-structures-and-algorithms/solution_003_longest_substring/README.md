@@ -2,9 +2,11 @@
 
 Leet Code reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
-Topic:
+Topic: Hash table, String, Sliding window
 
 ## Description
+
+Given a string s, find the length of the longest substring without duplicate characters.
 
 Example 1:
 
@@ -29,10 +31,6 @@ Constraints:
 
 - 0 <= s.length <= 5 * 10^4
 - s consists of English letters, digits, symbols and spaces.
-
-## Visualisation
-
-xxx
 
 ## Additional notes
 
