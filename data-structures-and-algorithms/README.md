@@ -23,6 +23,10 @@
 
 [001 Two Sum](solution_001_two_sum)
 
+[242 Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+
+[448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+
 **Real world examples**
 - Caching systems to avoid recalculating previously computed results
 - Hash Indexing for fast lookups
