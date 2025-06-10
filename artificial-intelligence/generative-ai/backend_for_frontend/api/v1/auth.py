@@ -1,5 +1,16 @@
+"""
+REF-007-API-ENDPOINT-TESTING
+Request example to test the endpoint:
+POST http://127.0.0.1:8000/v1/auth/login
+Payload
+{
+    "username": "test-username",
+    "password": "test-password"
+}
+"""
+
+from domain.models import LoginRequest, TokenResponse
 from fastapi import APIRouter
-from models import LoginRequest, TokenResponse
 
 router = APIRouter()
 
