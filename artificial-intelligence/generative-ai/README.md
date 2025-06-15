@@ -21,7 +21,7 @@ Semantic search service
 ## Backend-for-Frontend (BFF) Service
 
 - Code-level Architecture: Layered architecture
-- Handler pattern
+- Handler pattern (gRPC)
 
 API design
 
@@ -49,8 +49,8 @@ API design
 | **Deployment / Runtime:**    | Docker, Kubernetes  |
 | **Infrastructure** | Terraform           |
 
-- Frontend (if also in-cluster): can talk to BFF using internal DNS, e.g. http://bff-svc.default.svc.cluster.local.
-- Backend (BFF): use a ClusterIP service (default) meaning it’s internal only.
+- Frontend talks to BFF using internal DNS, e.g. http://bff-svc.default.svc.cluster.local.
+- Backend (BFF) is deployed as a ClusterIP service meaning it’s internal only.
 
 # 🏛️ System architecture pillars
 
@@ -63,6 +63,6 @@ TBD
 |                       |                                                            |
 |-----------------------|------------------------------------------------------------|
 | **IDE & Environment** | PyCharm with Python virtual environment                    |
-| **Testing**           | Pytest framework                                           |
+| **Testing**           | Pytest, Unittest frameworks                                |
 | **Local Kubernetes**  | Minikube (lightweight local cluster) managed via Terraform |  
 | **CI/CD**             | GitHub Actions workflow simulation for local testing       |  

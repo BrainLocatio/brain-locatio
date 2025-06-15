@@ -14,6 +14,8 @@
 
 [035_search_insert_position](solution_035_search_insert_position)
 
+[852_peak_index_in_a_mountain_array](solution_852_peak_index_in_a_mountain_array)
+
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
 

@@ -17,5 +17,5 @@ class SolutionTestCase(unittest.TestCase):
         ]
 
         for nums, target, expected_result in test_cases:
-            actual_result = solution.searchInsert(nums, target)
+            actual_result = solution.search_insert(nums, target)  # type: ignore
             self.assertEqual(expected_result, actual_result)

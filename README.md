@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Programming Language Proficiency
 - Python Basics
-- Code and Documentation Reading
+- Code quality and documentation
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ### 🚀 Intermediate Concepts 
-- API authentication, security and caching
+- API security and DB caching
 - DevOps Foundations, Using version control effectively
 
 ---
