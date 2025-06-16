@@ -1,5 +1,6 @@
 class Solution:
-    def is_palindrome(self, x: int) -> bool:
+    @staticmethod
+    def is_palindrome(x: int) -> bool:
         """
         Determine whether an integer is a palindrome.
 
