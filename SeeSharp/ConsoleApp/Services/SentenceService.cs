@@ -1,3 +1,4 @@
+// TODO Implement DIP - SentenceService should depend on ISentenceRepository
 using ConsoleApp.Repositories;
 using System.Net.Http;
 using System.Threading.Tasks;

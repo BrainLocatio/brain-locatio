@@ -2,9 +2,15 @@
 
 ## Beginner
 
+### String manipulation
+
+[009. Palindrome Number](s009_palindrome_number)
+
 ### Linear search approach
 
-[485_max_consecutive_ones](solution_485_max_consecutive_ones)
+[414. Third Maximum Number](solution_414_third_maximum_number)
+
+[485. Max Consecutive Ones](solution_485_max_consecutive_ones)
 
 **Real world examples**
 - Command-Line Tools like grep, find
@@ -12,9 +18,9 @@
 
 ### Binary search approach
 
-[035_search_insert_position](solution_035_search_insert_position)
+[035. Search Insert Position](solution_035_search_insert_position)
 
-[852_peak_index_in_a_mountain_array](solution_852_peak_index_in_a_mountain_array)
+[852. Peak Index In a Mountain Array](solution_852_peak_index_in_a_mountain_array)
 
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
@@ -36,7 +42,7 @@
 
 ### Sliding Window Approach
 
-[003_longest_substring](solution_003_longest_substring)
+[003. Longest Substring](solution_003_longest_substring)
 
 **Real world examples**
 - Rate Limiting / API Throttling

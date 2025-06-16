@@ -6,12 +6,23 @@
 
 ![GitHub_banner.png](images/GitHub_banner.png)
 
+# 👋 Dear IT Enthusiast, Welcome to My GitHub Profile!
+
+## About Me
+
+**I have turned my job into a hobby!** I am currently working as a **Developer**, applying my **software and 
+data engineering** skills gained from AI projects, alongside my prior experience in the **data science** field.
+
+You can learn more about my professional background and view my CV on [LinkedIn](https://www.linkedin.com/in/nikoleta-kocurova-295a5011b/).
+
+Let’s journey through the Software Engineer’s roadmap together and achieve great things! 👊
+
 ## 🛣️ Software engineer's roadmap 👇
 
 ---
 
 ### 🧑‍💻 Programming Language Proficiency
-- Python Basics
+- Python
 - Code quality and documentation
 
 ---
@@ -35,6 +46,25 @@
 
 ### 💡 Master-Level Reasoning
 - Architectural patterns and principles (DDD, SOA, EDA)
+
+---
+
+---
+
+---
+
+## 🔼🔽 Project Navigation
+
+- Semantic Search with Gen AI: [artificial-intelligence](artificial-intelligence)
+- Python Coding LeetCode Solutions: [data-structures-and-algorithms](data-structures-and-algorithms)
+- Database LeetCode Solutions: [database](database)
+- Simple C# Console Application: [SeeSharp](SeeSharp)
+
+---
+
+---
+
+---
 
 ## 🛠️ Project Setup
 
