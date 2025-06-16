@@ -12,10 +12,13 @@ Return the index of the peak element.
 
 Your task is to solve it in O(log(n)) time complexity.
 
-## Visualisation
+**Example 3:**
 
-xxx
+    Input: arr = [0,10,5,2]
+    Output: 1
 
-## Additional notes
+**Constraints:**
 
-xxx
+- 3 <= arr.length <= 10^5
+- 0 <= arr[i] <= 10^6
+- arr is guaranteed to be a mountain array.

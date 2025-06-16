@@ -1,5 +1,6 @@
 class Solution:
-    def peakIndexInMountainArray(self, arr: list[int]) -> int:
+    @staticmethod
+    def peak_index_in_mountain_array(arr: list[int]) -> int:
         low_index, high_index = 0, len(arr) - 1
 
         while low_index < high_index:
