@@ -1,6 +1,6 @@
 import unittest
 
-from solution import Solution  # type: ignore
+from .solution import Solution
 
 
 class SolutionTestCase(unittest.TestCase):
@@ -14,4 +14,4 @@ class SolutionTestCase(unittest.TestCase):
         ]
 
         for input_value, expected_result in test_cases:
-            self.assertEqual(expected_result, solution.findMaxConsecutiveOnes(input_value))
+            self.assertEqual(expected_result, solution.find_max_consecutive_ones(input_value))
