@@ -8,9 +8,9 @@
 
 ### Linear search approach
 
-[414. Third Maximum Number](solution_414_third_maximum_number)
+[414. Third Maximum Number](s414_third_maximum_number)
 
-[485. Max Consecutive Ones](solution_485_max_consecutive_ones)
+[485. Max Consecutive Ones](s485_max_consecutive_ones)
 
 **Real world examples**
 - Command-Line Tools like grep, find
