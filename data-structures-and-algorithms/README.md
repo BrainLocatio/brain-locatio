@@ -18,7 +18,7 @@
 
 ### Binary search approach
 
-[035. Search Insert Position](solution_035_search_insert_position)
+[035. Search Insert Position](s035_search_insert_position)
 
 [852. Peak Index In a Mountain Array](solution_852_peak_index_in_a_mountain_array)
 
