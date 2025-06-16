@@ -1,5 +1,6 @@
 class Solution:
-    def third_max(self, nums: list[int]) -> int:
+    @staticmethod
+    def third_max(nums: list[int]) -> int:
         """
         Linear search approach
 
