@@ -32,14 +32,14 @@ https://leetcode.com/problems/zigzag-conversion
 
 [852. Peak Index In a Mountain Array](s852_peak_index_in_a_mountain_array)
 
-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+[704. Binary Search](s704_binary_search)
 
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
 
 ### Two pointers approach
 
-https://leetcode.com/problems/3sum/description/
+https://leetcode.com/problems/move-zeroes/description/
 
 ## Intermediate
 
