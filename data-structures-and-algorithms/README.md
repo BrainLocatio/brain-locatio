@@ -1,3 +1,9 @@
+# Data Structures
+
+### Stack
+
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+
 # Algorithms
 
 ## Beginner
@@ -5,6 +11,8 @@
 ### String manipulation
 
 [009. Palindrome Number](s009_palindrome_number)
+
+https://leetcode.com/problems/zigzag-conversion
 
 ### Linear search approach
 
@@ -22,18 +30,26 @@
 
 [852. Peak Index In a Mountain Array](s852_peak_index_in_a_mountain_array)
 
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
+
+### Two pointers approach
+
+https://leetcode.com/problems/3sum/description/
 
 ## Intermediate
 
 ### Hashmap Approach
 
-[001 Two Sum](solution_001_two_sum)
+[001. Two Sum](solution_001_two_sum)
 
-[242 Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 
-[448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+
+https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 
 **Real world examples**
 - Caching systems to avoid recalculating previously computed results
