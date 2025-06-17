@@ -34,7 +34,7 @@ API design
 | **Data validation**     | Pydantic |
 
 DB design
-PostgreSQL, database for web application, docker compose
+PostgreSQL, database for web application
 pydantic settings
 
 ## Semantic search microservice
@@ -72,3 +72,9 @@ TBD
 | **Testing**           | Pytest, Unittest frameworks                                |
 | **Local Kubernetes**  | Minikube (lightweight local cluster) managed via Terraform |  
 | **CI/CD**             | GitHub Actions workflow simulation for local testing       |  
+
+PostgreSQL DB
+
+[docker-compose.yml](docker-compose.yml)
+
+docker-compose up
