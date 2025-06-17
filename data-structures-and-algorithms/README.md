@@ -2,7 +2,7 @@
 
 ### Stack
 
-https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+[1047. Remove all adjacent duplicates in string](s1047_remove_all_adjacent_duplicates_in_string)
 
 # Algorithms
 
@@ -43,7 +43,7 @@ https://leetcode.com/problems/3sum/description/
 
 ### Hashmap Approach
 
-[001. Two Sum](solution_001_two_sum)
+[001. Two Sum](s001_two_sum)
 
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 
