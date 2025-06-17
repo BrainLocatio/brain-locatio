@@ -67,4 +67,4 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 
 ### Divide & Conquer Approach
 
-[053 Maximum Subarray](solution_053_maximum_subarray)
+[053 Maximum Subarray](s053_maximum_subarray)
