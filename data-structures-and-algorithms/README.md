@@ -2,7 +2,9 @@
 
 ### Stack
 
-[1047. Remove all adjacent duplicates in string](s1047_remove_all_adjacent_duplicates_in_string)
+[040. Valid Parantheses](s040_valid_parantheses)
+
+[1047. Remove All Adjacent Duplicates In String](s1047_remove_all_adjacent_duplicates_in_string)
 
 # Algorithms
 
