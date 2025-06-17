@@ -1,7 +1,7 @@
 from functools import wraps
 from typing import Callable
 
-from models import ArticleResponse, SearchRequest
+from domain.models import ArticleResponse, SearchRequest
 
 
 # REF-006-DECORATOR-DESIGN-PATTERN

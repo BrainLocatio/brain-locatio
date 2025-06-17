@@ -3,10 +3,10 @@ name: Generative AI
 on:
   push:
     paths:
-      - 'generative-ai/**'
+      - 'artificial-intelligence/generative-ai/**'
   pull_request:
     paths:
-      - 'generative-ai/**'
+      - 'artificial-intelligence/generative-ai/**'
 
 jobs:
   build:
@@ -21,5 +21,5 @@ jobs:
       # REF-011-APP-VERSIONING
       - name: Set Build Tag
         run: |
-          VERSION=$(grep -oP '__version__\s*=\s*"\K[0-9.]+' generative-ai/backend_for_frontend/__version__.py)
+          VERSION=$(grep -oP '__version__\s*=\s*"\K[0-9.]+' artificial-intelligence/generative-ai/backend_for_frontend/__version__.py)
           echo "VERSION=$VERSION"
