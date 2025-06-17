@@ -58,7 +58,7 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 
 ### Sliding Window Approach
 
-[003. Longest Substring](solution_003_longest_substring)
+[003. Longest Substring](s003_longest_substring)
 
 **Real world examples**
 - Rate Limiting / API Throttling
