@@ -5,3 +5,7 @@
 # Indexing
 
 # Caching
+
+- LRU (Least Recently Used)
+- LFU (Least Frequently Used)
+- memoization

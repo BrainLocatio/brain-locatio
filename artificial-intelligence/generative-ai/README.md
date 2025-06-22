@@ -1,41 +1,46 @@
 # 📌 Project Overview
 
-This project provides technical articles retrieved through semantic search using LLaMA, with content generation powered 
-by the OpenAI API. 
+This project provides technical articles retrieved through semantic search using LLaMA model, with content generation powered 
+by the OpenAI. 
 
 Additionally, it integrates a third-party WeatherAPI to provide weather data, which is used to generate non-technical 
 articles related to current weather conditions.
+
+# Architecture
 
 ## System-level Architecture
 
 Frontend: Node.js, React, HTML, Tailwind CSS
 
 Backend-for-Frontend (BFF)
-- auth, rate limiting, request shaping (formatting)
-  - Request shaping means modifying or enhancing incoming requests before they reach the actual business logic (like search, inference, or other core functionality).
+- auth, rate limiting, request shaping
 - validation, caching, and aggregation
-  - Aggregation means combining data from multiple sources or services into a single, unified response. E.g. semantic + weather
-- Enforce authorization, manage API keys, and hide service internals.
+- manages API keys, and hides service internals
 
 Semantic search service
-- perform calls to OpenAI if needed, and do the semantic search in text
+- performs calls to OpenAI if needed, and do the semantic search in text
 
 ## Backend-for-Frontend (BFF) Service
 
 - Code-level Architecture: Layered architecture
+
+  - Controller / API / Presentation Layer
+  - Service / Business Logic / Application / Domain Layer
+  - Infrastructure Layer & Repository / Data Access Layer
 - Handler pattern (gRPC)
 
 API design
 
-|                         |          |
-|-------------------------|----------|
-| **API**                 | REST     |
-| **Framework**           | FastAPI  |
-| **Data validation**     | Pydantic |
+|                    |                                          |
+|--------------------|------------------------------------------|
+| **API**            | REST                                     |
+| **Framework**      | FastAPI                                  |
+| **Data validation** | Pydantic                                 |
+| **Security**       | CORS, User's credentials + JWT, API keys |
 
 DB design
-PostgreSQL, database for web application
-pydantic settings
+- PostgreSQL (database for web application), MongoDB
+- Pydantic Settings
 
 ## Semantic search microservice
 - Code-level Architecture: Layered architecture
@@ -72,9 +77,10 @@ TBD
 | **Testing**           | Pytest, Unittest frameworks                                |
 | **Local Kubernetes**  | Minikube (lightweight local cluster) managed via Terraform |  
 | **CI/CD**             | GitHub Actions workflow simulation for local testing       |  
+| **Terraform**         | OpenTofu                                                   |  
 
 PostgreSQL DB
 
 [docker-compose.yml](docker-compose.yml)
 
-docker-compose up
+```docker-compose up```
