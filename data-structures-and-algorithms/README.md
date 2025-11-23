@@ -1,70 +1,87 @@
 # Data Structures
 
-### Stack
+<h2 style="color:#44a576;">Stack</h2>
 
-[040. Valid Parantheses](s040_valid_parantheses)
+> **Valid Parantheses**
+> 
+> ➤ [More](s040_valid_parantheses)
 
-[1047. Remove All Adjacent Duplicates In String](s1047_remove_all_adjacent_duplicates_in_string)
+> **Remove all Adjacent Duplicates in String**
+> 
+> ➤ [More](s1047_remove_all_adjacent_duplicates_in_string)
 
 # Algorithms
 
-## Beginner
+![001coding_005algorithms.jpeg](images/algoritmization.jpeg)
 
-### String manipulation
+<h1 style="color:#44a576;">Beginner</h1>
+<h2 style="color:#44a576;">String manipulation</h2>
 
-[009. Palindrome Number](s009_palindrome_number)
+> **Palindrome number**
+> 
+> ➤ [More](s009_palindrome_number)
 
-https://leetcode.com/problems/zigzag-conversion
+<h2 style="color:#44a576;">Linear search approach</h2>
 
-### Linear search approach
+> **Third Maximum Number**
+> 
+> ➤ [More](s414_third_maximum_number)
 
-[414. Third Maximum Number](s414_third_maximum_number)
-
-[485. Max Consecutive Ones](s485_max_consecutive_ones)
+> **Max Consecutive Ones**  
+> ➤ [More](s485_max_consecutive_ones)
 
 **Real world examples**
 - Command-Line Tools like grep, find
 - Processing rows line-by-line with Pandas
 
-### Binary search approach
+<h2 style="color:#44a576;">Binary search approach</h2>
 
-[035. Search Insert Position](s035_search_insert_position)
+> **Search Insert Position**  
+> ➤ [More](s035_search_insert_position)
 
-[852. Peak Index In a Mountain Array](s852_peak_index_in_a_mountain_array)
+> **Peak Index in a Mountain Array**  
+> ➤ [More](s852_peak_index_in_a_mountain_array)
 
-[704. Binary Search](s704_binary_search)
+> **Binary Search**  
+> ➤ [More](s704_binary_search)
 
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
 
-### Two pointers approach
+<h2 style="color:#44a576;">Two pointers approach</h2>
 
-https://leetcode.com/problems/move-zeroes/description/
+> **Move Zeroes**  
+> ➤ [More](s283_move_zeroes)
 
-## Intermediate
+<h1 style="color:#44a576;">Intermediate</h1>
+<h2 style="color:#44a576;">Hashmap Approach</h2>
 
-### Hashmap Approach
+> **Two Sum**  
+> ➤ [More](s001_two_sum)
 
-[001. Two Sum](s001_two_sum)
+> **Valid Anagram**  
+> ➤ [More](s242_valid_anagram)
 
-[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+> **Find All Numbers Disappeared in an Array**  
+> ➤ [More](s448_find_all_numbers_disappeared_in_array)
 
-[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
-
-https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+> **Find All Duplicates in an Array**  
+> ➤ [More](s442_find_all_duplicates_in_an_array)
 
 **Real world examples**
 - Caching systems to avoid recalculating previously computed results
 - Hash Indexing for fast lookups
 - Hashing for change detection
 
-### Sliding Window Approach
+<h2 style="color:#44a576;">Sliding Window Approach</h2>
 
-[003. Longest Substring](s003_longest_substring)
+> **Longest Substring**  
+> ➤ [More](s003_longest_substring)
 
 **Real world examples**
 - Rate Limiting / API Throttling
 
-### Divide & Conquer Approach
+<h2 style="color:#44a576;">Divide & Conquer Approach</h2>
 
-[053 Maximum Subarray](s053_maximum_subarray)
+> **Maximum Subarray**  
+> ➤ [More](s053_maximum_subarray)
