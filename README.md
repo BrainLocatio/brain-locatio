@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/user/project/ci.yml?branch=main)](link-to-workflow)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![GitHub_banner.png](images/GitHub_banner.png)
+![github_banner_header.png](images/github_banner_header.png)
 
 # 👋 Dear IT Enthusiast, Welcome to My GitHub Profile!
 
@@ -45,9 +45,9 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 
 ### 🧑‍💻 Algorithmization
 
-- Logical Thinking and Reasoning
-- Data Structures and Algorithms
-- Code-Level System Design & Code quality
+- Logical Thinking and Reasoning.
+- Data Structures and Algorithms. Input Analysis.
+- Code-Level System Design & Code Quality.
 
 ![algorithmization_cropped.jpeg](data-structures-and-algorithms/images/algorithmization_cropped.jpeg)
 
@@ -85,3 +85,6 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 
 **Orchestration:**
 - **Pre-commit hooks** — managed via [`.pre-commit-config.yaml`](./.pre-commit-config.yaml)
+
+
+![github_banner_footer.png](images/github_banner_footer.png)
