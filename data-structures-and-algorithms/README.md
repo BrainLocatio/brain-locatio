@@ -12,7 +12,7 @@
 
 # Algorithms
 
-![001coding_005algorithms.jpeg](images/algoritmization.jpeg)
+![Algorithm Visualization](algoritmization.jpeg)
 
 <h1 style="color:#44a576;">Beginner</h1>
 <h2 style="color:#44a576;">String manipulation</h2>
