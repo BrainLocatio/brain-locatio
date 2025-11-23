@@ -12,7 +12,7 @@
 
 # Algorithms
 
-![Algorithm Visualization](images/algoritmization.jpeg)
+![Algorithm Visualization](images/algorithmization.jpeg)
 
 <h1 style="color:#44a576;">Beginner</h1>
 <h2 style="color:#44a576;">String manipulation</h2>
