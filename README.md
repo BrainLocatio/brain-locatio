@@ -10,26 +10,46 @@
 
 ## About Me
 
-**I have turned my job into a hobby!** I am currently working as a **Developer**, applying my **software and 
-data engineering** skills gained from AI projects, alongside my prior experience in the **data science** field.
+👋 **I’m the Founder of Braina Assistant.**
 
-You can learn more about my professional background and view my CV on [LinkedIn](https://www.linkedin.com/in/nikoleta-kocurova-295a5011b/).
+Diving into **data science, software engineering, and robotics** topics.
+Shaping the future of innovation in education - because let’s face it, **nobody wants to get left behind**.
+
+You can learn more about my professional background and view my CV on [LinkedIn](https://www.linkedin.com/in/ing-nikoleta-kocurova-bc-mini-mba-295a5011b/).
 
 Let’s journey through the Software Engineer’s roadmap together and achieve great things! 👊
+
+---
+
+---
+
+---
+
+## 🔼 🔽 Project Navigation
+
+- 🤖 Semantic Search with Gen AI: [artificial-intelligence](artificial-intelligence)
+- 🧑‍💻 Simple C# Console Application: [csharp](csharp)
+- 🧑‍💻 Algorithmization LeetCode Solutions: [data-structures-and-algorithms](data-structures-and-algorithms)
+- 💾 Database LeetCode Solutions: [database](database)
+- 📡 IoT: [internet-of-things](internet-of-things)
+
+---
+
+---
+
+---
 
 ## 🛣️ Software engineer's roadmap 👇
 
 ---
 
-### 🧑‍💻 Programming Language Proficiency
-- Python
-- Code quality and documentation
+### 🧑‍💻 Algorithmization
 
----
-
-### 📊 Algorithmization
 - Logical Thinking and Reasoning
 - Data Structures and Algorithms
+- Code-Level System Design & Code quality
+
+![algorithmization_cropped.jpeg](data-structures-and-algorithms/images/algorithmization_cropped.jpeg)
 
 ---
 
@@ -46,19 +66,6 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 
 ### 💡 Master-Level Reasoning
 - Architectural patterns and principles (DDD, SOA, EDA)
-
----
-
----
-
----
-
-## 🔼🔽 Project Navigation
-
-- Semantic Search with Gen AI: [artificial-intelligence](artificial-intelligence)
-- Python Coding LeetCode Solutions: [data-structures-and-algorithms](data-structures-and-algorithms)
-- Database LeetCode Solutions: [database](database)
-- Simple C# Console Application: [SeeSharp](SeeSharp)
 
 ---
 
