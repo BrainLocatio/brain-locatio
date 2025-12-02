@@ -31,4 +31,4 @@ This approach splits the array into halves, solves each half recursively, and co
 
 ## Visualisation
 
-![053_maximum_subarray.png](../images/053_maximum_subarray.png)
+![s053_maximum_subarray.png](../images/s053_maximum_subarray.png)
