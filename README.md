@@ -75,8 +75,8 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 
 ## 🛠️ Project Setup
 
-### Code Analysis
-
+### Code Analysis - Python
+ 
 **Initial setup:** ```chmod +x install.sh && ./install.sh```
 
 **Configuration Sources:**
@@ -86,5 +86,8 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 **Orchestration:**
 - **Pre-commit hooks** — managed via [`.pre-commit-config.yaml`](./.pre-commit-config.yaml)
 
+### Testing
+
+Properties **"scripts"** & **"devDependencies"** in [`package.json`](package.json)
 
 ![github_banner_footer.png](images/github_banner_footer.png)
