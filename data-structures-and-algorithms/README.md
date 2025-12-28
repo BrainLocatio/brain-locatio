@@ -15,11 +15,6 @@
 ![Algorithm Visualization](images/algorithmization.jpeg)
 
 <h1 style="color:#44a576;">Beginner</h1>
-<h2 style="color:#44a576;">String manipulation</h2>
-
-> **Palindrome number**
-> 
-> ➤ [More](s009_palindrome_number)
 
 <h2 style="color:#44a576;">Linear search approach</h2>
 
@@ -49,6 +44,10 @@
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
 
 <h2 style="color:#44a576;">Two pointers approach</h2>
+
+> **Palindrome number**
+> 
+> ➤ [More](s009_palindrome_number)
 
 > **Move Zeroes**  
 > ➤ [More](s283_move_zeroes)

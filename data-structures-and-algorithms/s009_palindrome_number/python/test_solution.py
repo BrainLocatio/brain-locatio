@@ -4,7 +4,7 @@ from solution import Solution  # type: ignore
 
 
 class SolutionTestCase(unittest.TestCase):
-    def is_palindrome(self) -> None:
+    def test_is_palindrome(self) -> None:
         solution = Solution()
         test_cases = [(121, True), (-121, False), (10, False)]
 

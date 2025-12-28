@@ -30,3 +30,6 @@ Input analysis:
 - range: both, positive and negative values
 - uniqueness: elements are not unique
 - order: unsorted
+
+Algorithm’s approach:
+- Two pointer technique
