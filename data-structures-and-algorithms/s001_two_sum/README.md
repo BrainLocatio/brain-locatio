@@ -43,7 +43,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n^2) time compl
 
 ## Visualisation
 
-![001_two_sum.png](../../images/001_two_sum.png)
+![001_two_sum.png](../images/s001_two_sum.png)
 
 ## Additional notes
 
