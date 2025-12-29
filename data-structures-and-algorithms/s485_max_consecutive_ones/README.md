@@ -24,10 +24,12 @@ Given a binary array nums, return the maximum number of consecutive 1's in the a
 - 1 <= nums.length <= 10^5
 - nums[i] is either 0 or 1.
 
+## Input analysis
+- Type: list, reference data type and mutable collection
+- Range: zeroes and positive ones
+- Uniqueness: elements are not unique
+- Order: unsorted
+
 ## Visualisation
 
-xxx
-
-## Additional notes
-
-xxx
+![s485-max-consecutive-ones.png](../images/s485-max-consecutive-ones.png)
