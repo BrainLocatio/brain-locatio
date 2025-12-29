@@ -14,7 +14,7 @@
 
 ![Algorithm Visualization](images/algorithmization.jpeg)
 
-<h1 style="color:#44a576;">Beginner</h1>
+<h1 style="color:#44a576;">Foundational</h1>
 
 <h2 style="color:#44a576;">Linear search approach</h2>
 
@@ -43,6 +43,8 @@
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
 
+<h1 style="color:#44a576;">Practical Basic</h1>
+
 <h2 style="color:#44a576;">Two pointers approach</h2>
 
 > **Palindrome number**
@@ -52,7 +54,6 @@
 > **Move Zeroes**  
 > ➤ [More](s283_move_zeroes)
 
-<h1 style="color:#44a576;">Intermediate</h1>
 <h2 style="color:#44a576;">Hashmap Approach</h2>
 
 > **Two Sum**  
@@ -71,6 +72,8 @@
 - Caching systems to avoid recalculating previously computed results
 - Hash Indexing for fast lookups
 - Hashing for change detection
+
+<h1 style="color:#44a576;">Intermediate</h1>
 
 <h2 style="color:#44a576;">Sliding Window Approach</h2>
 
