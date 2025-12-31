@@ -12,7 +12,7 @@
 
 # Algorithms
 
-![Algorithm Visualization](images/algorithmization.jpeg)
+![001-algorithms-how-to-approach-v2.png](images/001-algorithms-how-to-approach-v2.png)
 
 <h1 style="color:#44a576;">Foundational</h1>
 
@@ -43,7 +43,7 @@
 **Real world examples**
 - B-Tree (Balanced Tree) Indexing in PostgreSQL
 
-<h1 style="color:#44a576;">Practical Basic</h1>
+<h1 style="color:#44a576;">Practical Basics</h1>
 
 <h2 style="color:#44a576;">Two pointers approach</h2>
 

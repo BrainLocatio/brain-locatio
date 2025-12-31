@@ -46,7 +46,7 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 ### 🧑‍💻 Algorithmization
 
 - Logical Thinking and Reasoning.
-- Data Structures and Algorithms. Input Analysis.
+- Input Analysis. Data Structures and Algorithmic Solution.
 - Code-Level System Design & Code Quality.
 
 ![algorithmization_cropped.jpeg](data-structures-and-algorithms/images/algorithmization_cropped.jpeg)
