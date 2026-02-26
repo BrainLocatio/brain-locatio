@@ -16,7 +16,7 @@
 
 <h1 style="color:#44a576;">Foundational</h1>
 
-<h2 style="color:#44a576;">Linear search approach</h2>
+<h2 style="color:#44a576;">Linear search</h2>
 
 > **Third Maximum Number**
 > 
@@ -28,6 +28,12 @@
 **Real world examples**
 - Command-Line Tools like grep, find
 - Processing rows line-by-line with Pandas
+
+<h2 style="color:#44a576;">Recursive vs. Iterative approach</h2>
+
+> **Decode String**
+>
+> ➤ [More](s394_decode_string)
 
 <h2 style="color:#44a576;">Binary search approach</h2>
 
