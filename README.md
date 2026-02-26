@@ -12,7 +12,7 @@
 
 👋 **I’m the Founder of Braina Assistant.**
 
-Diving into **data science, software engineering, and robotics** topics.
+Diving into **data science, software engineering, and data engineering** topics.
 Shaping the future of innovation in education - because let’s face it, **nobody wants to get left behind**.
 
 You can learn more about my professional background and view my CV on [LinkedIn](https://www.linkedin.com/in/ing-nikoleta-kocurova-bc-mini-mba-295a5011b/).
@@ -31,6 +31,7 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 - 🧑‍💻 Simple C# Console Application: [csharp](csharp)
 - 🧑‍💻 Algorithmization LeetCode Solutions: [data-structures-and-algorithms](data-structures-and-algorithms)
 - 💾 Database LeetCode Solutions: [database](database)
+- 🌐 Django Full Stack: [django-fullstack](django-fullstack)
 - 📡 IoT: [internet-of-things](internet-of-things)
 
 ---
@@ -43,10 +44,10 @@ Let’s journey through the Software Engineer’s roadmap together and achieve g
 
 ---
 
-### 🧑‍💻 Algorithmization
+### 🧑‍💻 Logical Thinking & Reasoning
 
-- Logical Thinking and Reasoning.
-- Input Analysis. Data Structures and Algorithmic Solution.
+- Brain teasers, Logic, Tricky Implementations
+- Input Analysis. Data Structures and Algorithmic Solutions.
 - Code-Level System Design & Code Quality.
 
 ![algorithmization_cropped.jpeg](data-structures-and-algorithms/images/algorithmization_cropped.jpeg)
