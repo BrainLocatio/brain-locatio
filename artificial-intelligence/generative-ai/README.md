@@ -10,7 +10,7 @@ articles related to current weather conditions.
 
 ## System-level Architecture
 
-Frontend: Node.js, React, HTML, Tailwind CSS
+Frontend Technologies: JavaScript, jQuery, React, HTML, Tailwind CSS
 
 Backend-for-Frontend (BFF)
 - auth, rate limiting, request shaping
@@ -19,6 +19,8 @@ Backend-for-Frontend (BFF)
 
 Semantic search service
 - performs calls to OpenAI if needed, and do the semantic search in text
+- Open-source models (for example, LLaMA)
+- Serves as LLM API
 
 ## Backend-for-Frontend (BFF) Service
 
